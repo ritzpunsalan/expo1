@@ -1,0 +1,8 @@
+source link:
+E:\Desktop\current projects\mockup sites\expo1
+
+    learning from vue
+        https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/
+
+resume timer:
+    2:30

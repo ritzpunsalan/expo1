@@ -1,0 +1,14 @@
+agenda:
+    in here will be a test of various tools and fixits app by going to the sites and doing their tutorials for better understanding.
+
+    list of things to get use to:
+    vue
+    react
+    rest
+    less
+    sass
+    netlify
+    ruby
+    typescript
+    redux
+    angular
