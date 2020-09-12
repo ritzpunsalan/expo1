@@ -18,3 +18,4 @@ npm list -g
     show list
         source link:
     https://stackoverflow.com/questions/17937960/how-to-list-npm-user-installed-packages
+

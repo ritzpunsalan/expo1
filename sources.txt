@@ -6,3 +6,10 @@ E:\Desktop\current projects\mockup sites\expo1
 
 resume timer:
     2:30
+
+source link: 
+    https://github.com/ritzpunsalan/expo1/settings
+        look for " GitHub Pages "
+        [[ branch: master ]] [[ /docs ]] then save
+site link:
+    https://ritzpunsalan.github.io/expo1/
